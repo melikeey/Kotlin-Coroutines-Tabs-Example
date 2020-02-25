@@ -1,5 +1,5 @@
 # Kotlin-Caroutines-Tabs-Example
-This is Kotlin tabs and caroutines example. 
+This is Tabs and caroutines example. 
 
 ## Libraries 
 
