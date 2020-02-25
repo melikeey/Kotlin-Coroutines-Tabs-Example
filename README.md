@@ -1,7 +1,7 @@
 # Kotlin-Caroutines-Tabs-Example
 This is tabs and caroutines example with Kotlin.
 
-It downloads image and handle errors with caroutines 
+It downloads images and handles errors with caroutines 
 
 ## Libraries 
 
