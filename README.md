@@ -21,7 +21,8 @@ Do not forget to add ```androidExtension``` to build gradle to use Parcelize
 ```
 androidExtensions {
     experimental = true // @Parcelize
-}```
+}
+```
 
 
 <div align="center">
