@@ -1,12 +1,6 @@
 # Kotlin-Caroutines-Tabs-Example
 This is Kotlin tabs and caroutines example. 
 
-
-<div align="center">
-    <img src="https://github.com/melikeey/Kotlin-Caroutines-Tabs-Example/blob/master/ss.png" width="250px"</img> 
-</div>
-
-
 ## Libraries 
 
     AppCompat
@@ -22,8 +16,14 @@ This is Kotlin tabs and caroutines example.
 
 
 
-Do not forget to add build gradle to use Parcelize
+Do not forget to add ```androidExtension``` to build gradle to use Parcelize
 
+```
 androidExtensions {
     experimental = true // @Parcelize
-}
+}```
+
+
+<div align="center">
+    <img src="https://github.com/melikeey/Kotlin-Caroutines-Tabs-Example/blob/master/ss.png" width="250px"</img> 
+</div>
